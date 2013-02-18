@@ -14,9 +14,8 @@
 	* Facebook Connect
 
 ### Overview:
-Meteor w Facebook Connect / Google Maps / D3
-=======
-meteor-fb
-=========
+Using Meteor Framework with Meteorite Packaging wrapper to connect with Facebook, Google Maps, and use D3 for vectoring.
 
-Facebook Connect / Google Maps / D3
+Google maps will help provide all the data points and overlays and d3 will be used for charting data and analytics.
+
+Create a map with hover items that show facebook people. Chart area to filter by likes and such.
