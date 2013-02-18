@@ -1,13 +1,13 @@
 if (Meteor.isClient) {
   Template.hello.greeting = function () {
-    return "Welcome to meteor-fb.";
+    return "Welcome meteor framework seems to be working.";
   };
 
   Template.hello.events({
     'click input' : function () {
       // template data, if any, is available in 'this'
       if (typeof console !== 'undefined')
-        console.log("You pressed the button");
+        console.log("You are getting a little anxious just working on writing documentation at the moment, got jobs you know. Check again later.");
     }
   });
 }
